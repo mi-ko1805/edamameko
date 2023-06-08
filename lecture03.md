@@ -10,4 +10,9 @@ bundle<br>
 * 課題から学んだこと<br> 
 APサーバーを終了させるとアクセスできなくなる、<br>
 APサーバーが起動していてもDBサーバーが終了していたら<br>
-エラー画面になることがわかりました。  
+エラー画面になることがわかりました。 
+![lecture03.1](./edamameko/lecture03.1.png)
+![lecture03.2](./edamameko/lecture03.2.png)
+![lecture03.3](./edamameko/lecture03.3.png)
+![lecture03.4](./edamameko/lecture03.4.png)
+![lecture03.5](./edamameko/lecture03.5.png)
