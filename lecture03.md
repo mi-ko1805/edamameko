@@ -11,8 +11,8 @@ bundle<br>
 APサーバーを終了させるとアクセスできなくなる、<br>
 APサーバーが起動していてもDBサーバーが終了していたら<br>
 エラー画面になることがわかりました。 
-![lecture03.1](./edamameko/lecture03.1.png)
-![lecture03.2](./edamameko/lecture03.2.png)
-![lecture03.3](./edamameko/lecture03.3.png)
-![lecture03.4](./edamameko/lecture03.4.png)
-![lecture03.5](./edamameko/lecture03.5.png)
+![lecture03.1](./lecture03.md/lecture03.1.png)
+![lecture03.2](./lecture03.md/lecture03.2.png)
+![lecture03.3](./lecture03.md/lecture03.3.png)
+![lecture03.4](./lecture03.md/lecture03.4.png)
+![lecture03.5](./lecture03.md/lecture03.5.png)
