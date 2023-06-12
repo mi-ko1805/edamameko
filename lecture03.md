@@ -14,5 +14,7 @@ APサーバーが起動していてもDBサーバーが終了していたら<br>
 ![lecture03.1](image/lecture03.1.png)<br>
 ![lecture03.2](image/lecture03.2.png)<br>
 ![lecture03.3](image/lecture03.3.png)<br>
+* １〜３はアクセスして表示された画像です。<br>
 ![lecture03.4](image/lecture03.4.png)<br>
 ![lecture03.5](image/lecture03.5.png)<br>
+* ４〜5はエラー画像です。<br>
