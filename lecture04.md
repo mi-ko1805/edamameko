@@ -18,17 +18,17 @@
 
 ![lec04.rds2](image2/lec04.rds2.png)
 
-![lec04.rds3](image2/lec04.rds3.png)
+![lec04.rds3](image2/lec.04.rds3.png)
 
-![lec04.rds4](image2/lec04.rds4.png)
+![lec04.rds4](image2/lec.04.rds4.png)
 
 ### EC2にSSH接続
 
-![ec2.ssh](image2/lec04.ec2.ssh.png)
+![ec2.ssh](image2/ec2.ssh.png)
 
 ### EC2とRDS接続
 
-![EC２.RDS](image2/lec04.EC2.RDS.png)
+![EC２.RDS](image2/EC2.RDS.png)
 
 ### 課題から学んだこと
 
