@@ -8,7 +8,7 @@
 
 ### EC2設定
 
-![lec.04.ec2](image2/lec.04.ec2.png)
+![lec.04ec2](image2/lec.04ec2.png)
 
 ![lec04.ec22](image2/lec04.ec22.png)
 
