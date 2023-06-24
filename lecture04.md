@@ -8,7 +8,7 @@
 
 ### EC2設定
 
-![lec04.ec2](image2/lec04.ec2.png)
+![lec.04.ec2](image2/lec.04.ec2.png)
 
 ![lec04.ec22](image2/lec04.ec22.png)
 
@@ -18,9 +18,9 @@
 
 ![lec04.rds2](image2/lec04.rds2.png)
 
-![lec04.rds3](image2/lec.04.rds3.png)
+![lec.04.rds3](image2/lec.04.rds3.png)
 
-![lec04.rds4](image2/lec.04.rds4.png)
+![lec.04.rds4](image2/lec.04.rds4.png)
 
 ### EC2にSSH接続
 
