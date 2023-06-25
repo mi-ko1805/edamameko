@@ -2,7 +2,7 @@
 
 ### VPC設定
 
-![lec04.vpc](image2/lec04.vpc.png)
+![lec04vpc](image2/lec04vpc.png)
 
 ![lec04.vpc2](image2/lec04.vpc2.png)
 
@@ -29,6 +29,12 @@
 ### EC2とRDS接続
 
 ![EC２.RDS](image2/EC2.RDS.png)
+
+### 追加画像
+
+![le04](image2/lec04.png)
+
+![le042](image2/lec042.png)
 
 ### 課題から学んだこと
 
