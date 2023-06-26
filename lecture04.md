@@ -34,7 +34,9 @@
 
 ![le04](image2/lec04.png)
 
-![le042](image2/lec042.png)
+![le04ec2](image2/lec04ec2.png)
+
+![ec2rds](image2/ec2rds.png)
 
 ### 課題から学んだこと
 
